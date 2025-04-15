@@ -1,0 +1,1 @@
+# Text-Synopsizing-Using-Word-Embeddings-and-Similarity-Metrics
